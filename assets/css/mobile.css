@@ -1,0 +1,73 @@
+@media (max-width : 740px) {
+    
+
+    .header_nav{
+        display: none;
+    }
+
+    .head_wrap{
+        margin: 0 8px;
+    }
+
+    .header_login{
+        margin-right: 0;
+    }
+
+
+    .header_input{
+        display: none;
+    }
+
+    .container_nav{
+        display: block;
+        
+    }
+
+    .container_category--head{
+        text-align: center;
+    }
+
+    .container_category--content-1{
+       
+        margin-right: 0px;
+        
+    }
+    .slect-mobile{
+        margin-right: 16px;
+    }
+
+    .container_nav--wrap{
+        margin-bottom: 40px;
+    }
+
+    .container_category{
+        display: block;
+        margin: 40px 8px;
+
+    }
+    .container_category--option{
+        width: 100%;
+        margin-top: 30px;
+    }
+    .container_category--img{
+        width: 100%;
+    }
+
+    .container_select{
+        display: block;
+    }
+    .container_select--item{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    .container_select--note{
+       max-width: 100%;
+    }
+
+    .head_mobile{
+        display: block;
+    }
+}
